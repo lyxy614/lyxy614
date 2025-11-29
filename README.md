@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello Github!
+
 
 <!--
 **lyxy614/lyxy614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
